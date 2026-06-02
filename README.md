@@ -12,3 +12,19 @@ My SQL practice codes from scratch
 - Created multiple DataFrames (`df`, `df1`, `cust`, `prod`) from raw structured data.
 - Registered DataFrames as Temporary Views using `createOrReplaceTempView()`.
 - Prepared the environment to run standard SQL queries on Big Data.
+
+
+---
+
+## 📅 Day 3: Advanced SQL with PySpark
+- Implemented Spark SQL using temporary views.
+- Practiced filtering with WHERE, IN, LIKE, and NULL conditions.
+- Learned aggregate functions like COUNT, SUM, MIN, and MAX.
+- Used CASE WHEN for conditional transformations.
+- Explored string functions: CONCAT, LOWER, UPPER, TRIM, SUBSTRING, and SPLIT.
+- Applied NULL handling using the COALESCE function.
+- Performed GROUP BY with multiple aggregations and DISTINCT for data cleaning.
+- Practiced set operations: UNION vs UNION ALL.
+- Applied HAVING clause for post-aggregation filtering.
+- Implemented Window Functions: ROW_NUMBER(), DENSE_RANK(), LEAD(), and LAG().
+- Learned Join Types: INNER, LEFT, RIGHT, FULL, and LEFT ANTI JOIN.
