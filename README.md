@@ -35,5 +35,5 @@ My SQL practice codes from scratch
 - Analyzed the practical differences between ranking functions: `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`.
 - Applied `PARTITION BY` and `ORDER BY` clauses to compute structural metrics within data groups.
 - Mastered Common Table Expressions (CTEs) using the `WITH` clause to write cleaner, modular, and more readable queries.
-- Solved a popular industry interview problem: Extracting the **2nd Highest Salary** in each department dynamically .
+- Solved a popular industry interview problem: Extracting the **2nd Highest Salary** in each department dynamically 
 
