@@ -30,7 +30,7 @@ My SQL practice codes from scratch
 - Learned Join Types: INNER, LEFT, RIGHT, FULL, and LEFT ANTI JOIN.
 
 
-### 📅 Day 4: Deep Dive into Window Functions & CTEs
+#### 📅 Day 4: Deep Dive into Window Functions & CTEs
 - Created a comprehensive practice script `04_advanced_sql_queries.sql` to implement advanced querying techniques.
 - Analyzed the practical differences between ranking functions: `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`.
 - Applied `PARTITION BY` and `ORDER BY` clauses to compute structural metrics within data groups.
