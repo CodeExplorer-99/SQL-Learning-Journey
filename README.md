@@ -1,7 +1,7 @@
 # SQL-Learning-Journey
 My SQL practice codes from scratch
 
--------------------------
+---------------------------
 
 ## 📅 Day 1: SQL Basics
 - Learned foundational SQL concepts.
