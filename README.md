@@ -14,7 +14,7 @@ My SQL practice codes from scratch
 - Prepared the environment to run standard SQL queries on Big Data.
 
 
--------
+----------
 
 ## 📅 Day 3: Advanced SQL with PySpark
 - Implemented Spark SQL using temporary views.
